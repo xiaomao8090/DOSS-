@@ -1,0 +1,13 @@
+DDoS模拟测试工具 - 高级版 
+运行时间: 周二 2025/05/06 19:08:35.41 
+---------------------------------------- 
+系统信息: 
+OS Name:                       Microsoft Windows 11 家庭中文版
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+---------------------------------------- 
+Node.js版本: 
+v22.14.0
+---------------------------------------- 
