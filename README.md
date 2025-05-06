@@ -112,7 +112,3 @@ node test-server.js
 - 进程间通信 (IPC) 收集统计数据
 - Promise 和异步函数实现非阻塞操作
 - 命令行参数解析
-
-## 许可证
-
-MIT 
